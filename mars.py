@@ -6,3 +6,6 @@ earth_temp = 400
 
 diff_temp = earth_temp - mars_temp
 print(diff_temp) 
+
+# we should load moon phase info for WolfMan
+print('Moon is good!')
