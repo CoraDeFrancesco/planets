@@ -9,3 +9,5 @@ print(diff_temp)
 
 # we should load moon phase info for WolfMan
 print('Moon is good!')
+
+# linear regression of temp and humidity for Mummy
