@@ -1,3 +1,5 @@
+print('Hello Collaborators!')
+
 mars_temp = 75
 # temperature in Kelvin
 
